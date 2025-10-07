@@ -1,0 +1,43 @@
+{
+  "agent_name": "SaCare Agent",
+
+  "brand": {
+    "appName": "{AGENT}",
+    "botName": "{AGENT}",
+    "logoSrc": "logo.svg"
+  },
+
+  "navbar_brand": "{AGENT}",
+  "navbar_links": [
+    { "label": "Healthcare",        "path": "/healthcare" },
+    { "label": "BFSI",              "path": "/bfsi" },
+    { "label": "Logistics",         "path": "/logistics" },
+    { "label": "Digital Commerce",  "path": "/digital-commerce" },
+    { "label": "Hi-Tech",           "path": "/hi-tech" },
+    { "label": "Real Estate",       "path": "/realestate" }
+  ],
+
+  "search_placeholder": "Ask {AGENT} anything…",
+  "search_aria": "Ask {AGENT} anything",
+  "search_button_aria": "Send to {AGENT}",
+
+  "meta_joined": "{AGENT} joined",
+  "bot_intro": "Hi, I'm SakCare Agent, an AI agent built in Agentforce that can help your all emergency and critical financial queries and connect you with our Experts if needed. This experience, powered entirely by Agentforce, keeps improving daily! Ask me things like, 'I would like to create a dispute request?'",
+  "bot_buttons": [
+    "Connect me with a sales rep",
+    "Show me an {AGENT} demo",
+    "How can Salesforce help my business"
+  ],
+  "demo_response": "You can watch the demo for {AGENT} <a href=\"https://example.com\" target=\"_blank\" rel=\"noopener noreferrer\">here</a>.",
+  "error_response": "Sorry, I couldn't process that. Please try again.",
+  "default_reply": "Sorry, I could not get a response.",
+  "bot_typing": "{AGENT} is typing...",
+  "placeholder": "Message {AGENT}",
+  "button_label": "Ask {AGENT}",
+  "header_title": "{AGENT}",
+  "header_info": "This tool uses generative AI, which can produce inaccurate or harmful responses. Learn more.",
+  "header_more": "More options coming soon.",
+  "heading_question": "How can",
+  "heading_bot_name": "{AGENT}",
+  "heading_suffix": "help?"
+}
