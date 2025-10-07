@@ -1,5 +1,5 @@
 {
-  "agent_name": "SakCare Agen",
+  "agent_name": "SakCare Agent",
 
   "brand": {
     "appName": "{AGENT}",
@@ -41,6 +41,7 @@
   "heading_bot_name": "{AGENT}",
   "heading_suffix": "help?"
 }
+
 
 
 
