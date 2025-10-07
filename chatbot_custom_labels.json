@@ -4,7 +4,7 @@
   "brand": {
     "appName": "{AGENT}",
     "botName": "{AGENT}",
-    "logoSrc": "logo.svg"
+    "logoSrc": "/bot-avatar.png"
   },
 
   "navbar_brand": "{AGENT}",
@@ -41,6 +41,7 @@
   "heading_bot_name": "{AGENT}",
   "heading_suffix": "help?"
 }
+
 
 
 
