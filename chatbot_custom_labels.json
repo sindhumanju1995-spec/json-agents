@@ -37,10 +37,11 @@
   "header_title": "{AGENT}",
   "header_info": "This tool uses generative AI, which can produce inaccurate or harmful responses. Learn more.",
   "header_more": "More options coming soon.",
-  "heading_question": "How can",
+  "heading_question": "How can a",
   "heading_bot_name": "{AGENT}",
   "heading_suffix": "help?"
 }
+
 
 
 
