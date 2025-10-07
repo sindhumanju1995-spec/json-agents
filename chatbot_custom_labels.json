@@ -22,7 +22,7 @@
   "search_button_aria": "Send to {AGENT}",
 
   "meta_joined": "{AGENT} joined",
-  "bot_intro": "Hi, I'm SakCare Agen, an AI agent built in Agentforce that can help your all emergency and critical financial queries and connect you with our Experts if needed. This experience, powered entirely by Agentforce, keeps improving daily! Ask me things like, 'I would like to create a dispute request?'",
+  "bot_intro": "Hi, I'm SakCare Agent, an AI agent built in Agentforce that can help your all emergency and critical financial queries and connect you with our Experts if needed. This experience, powered entirely by Agentforce, keeps improving daily! Ask me things like, 'I would like to create a dispute request?'",
   "bot_buttons": [
     "Connect me with a sales rep",
     "Show me an {AGENT} demo",
@@ -41,5 +41,6 @@
   "heading_bot_name": "{AGENT}",
   "heading_suffix": "help?"
 }
+
 
 
