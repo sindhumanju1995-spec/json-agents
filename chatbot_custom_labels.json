@@ -8,7 +8,7 @@
   },
 
   "theme": {
-    "primaryColor": "red",
+    "primaryColor": "#FF0000",
     "secondaryColor": "#F4F7FB",
     "headerBg": "#FFFFFF",
     "headerText": "#000000",
