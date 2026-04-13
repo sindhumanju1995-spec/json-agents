@@ -1,9 +1,9 @@
 {
-  "agent_name": "SakCare1 Agent",
+  "agent_name": "SakCare Agent",
 
   "brand": {
-    "appName": "SakCare2 Agent",
-    "botName": "SakCare3 Agent",
+    "appName": "{AGENT}",
+    "botName": "{AGENT}",
     "logoSrc": "/bot-avatar.png"
   },
 
@@ -51,7 +51,7 @@
   "placeholder": "Message {AGENT}",
   "button_label": "Ask {AGENT}",
 
-  "header_title": "SakCare Agent",
+  "header_title": "{AGENT}",
   "header_info": "This tool uses generative AI, which can produce inaccurate or harmful responses. Learn more.",
   "header_more": "More options coming soon.",
 
