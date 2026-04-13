@@ -1,9 +1,9 @@
 {
-  "agent_name": "SakCare Agent",
+  "agent_name": "SakCare1 Agent",
 
   "brand": {
-    "appName": "SakCare Agent",
-    "botName": "SakCare Agent",
+    "appName": "SakCare2 Agent",
+    "botName": "SakCare3 Agent",
     "logoSrc": "/bot-avatar.png"
   },
 
